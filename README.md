@@ -1,5 +1,9 @@
 # app
-
+參考文章:https://segmentfault.com/a/1190000040120091
+## Project setup
+```
+nvm use 16.14.0
+```
 ## Project setup
 ```
 npm install
